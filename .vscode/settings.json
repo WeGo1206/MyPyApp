@@ -4,5 +4,4 @@
     "workbench.settings.editor": "json",
     "python.formatting.provider": "black",
     "python.linting.enabled": true
-    
 }
